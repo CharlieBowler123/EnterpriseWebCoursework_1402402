@@ -1,0 +1,290 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newGoal"
+			],
+			[
+				"ma",
+				"material1"
+			],
+			[
+				"Res",
+				"ResetAgent"
+			],
+			[
+				"N",
+				"NavMeshAgent"
+			],
+			[
+				"goal",
+				"goalLocations"
+			],
+			[
+				"o",
+				"obstacle"
+			],
+			[
+				"G",
+				"GameObject"
+			],
+			[
+				"a",
+				"ancestor"
+			],
+			[
+				"SI",
+				"sibling"
+			],
+			[
+				"t",
+				"tutankhamun"
+			],
+			[
+				"tu",
+				"tutankhamun"
+			],
+			[
+				"u",
+				"unknown"
+			],
+			[
+				"s",
+				"stillborn"
+			],
+			[
+				"sibl",
+				"sibling"
+			],
+			[
+				"si",
+				"siblings"
+			],
+			[
+				"mari",
+				"maria"
+			],
+			[
+				"m",
+				"marius"
+			],
+			[
+				"c",
+				"circuits"
+			],
+			[
+				"e",
+				"english"
+			],
+			[
+				"w",
+				"wednesday"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/charliebowler/Desktop/Enterprise Web/server.js",
+		"/Users/charliebowler/Desktop/UnityPractice/OwnWork/CrowdModelPrac1/Assets/Scripts/CrowdBehaviour.cs",
+		"/Users/charliebowler/Desktop/UnityPractice/StreetScene 3/Assets/AIControl.cs",
+		"/Users/charliebowler/Desktop/UnityPractice/OwnWork/CrowdModelPrac1/Assets/Scripts/AIControl.cs",
+		"/Users/charliebowler/Desktop/UnityPractice/CrowdModelPracticeNavMesh/Assets/AgentControl.cs",
+		"/Users/charliebowler/Desktop/UnityPractice/CrowdModelPractice1/Assets/Scripts/DoorOpener.cs",
+		"/Users/charliebowler/Desktop/UnityPractice/StreetScene 3/Assets/DropCylinder.cs",
+		"/Users/charliebowler/Desktop/UnityPractice/CrowdModelPracticeNavMesh/Assets/DoorOpener.cs",
+		"/Users/charliebowler/Desktop/Honours Project/20161120-2-4-2-src/libpedsim/examples/example01.cpp",
+		"/Users/charliebowler/Downloads/Triangle.Compiler/SyntacticAnalyzer/Parser - Commands.cs",
+		"/Users/charliebowler/Downloads/Triangle.Compiler/SyntacticAnalyzer/Scanner.cs",
+		"/Users/charliebowler/Downloads/IDeclaration.cs",
+		"/Users/charliebowler/Downloads/AbstractSyntaxTree.cs",
+		"/Users/charliebowler/Downloads/IDeclaration (1).cs",
+		"/Users/charliebowler/Downloads/UnknownProcedure.cs",
+		"/Users/charliebowler/Downloads/KnownProcedure.cs",
+		"/Users/charliebowler/Downloads/Week 8 - Files/StandardEnvironment.cs",
+		"/Users/charliebowler/Downloads/cm4108-lab06-code/WebContent/script/index.js",
+		"/Users/charliebowler/Downloads/cm4108-lab06-code/WebContent/index.html",
+		"/Users/charliebowler/Downloads/cm4108-lab06-code/WebContent/WEB-INF/web.xml",
+		"/Users/charliebowler/Downloads/cm4108-lab06-code/WebContent/css/index.css",
+		"/Users/charliebowler/Downloads/cm4108-lab06-code/src/cm4108/lab06/aws/util/DynamoDBUtil.java",
+		"/Users/charliebowler/Downloads/cm4108-lab06-code/src/cm4108/lab06/city/model/City.java",
+		"/Users/charliebowler/Downloads/cm4108-lab06-code/src/cm4108/lab06/city/resource/CityResource.java",
+		"/Users/charliebowler/Downloads/cm4108-lab06-code/src/cm4108/lab06/config/Config.java",
+		"/Users/charliebowler/Desktop/Advanced AI/Coursework/Coursework Part 2/familytree.pl",
+		"/Applications/NetBeans/NetBeans 8.2.app/Contents/Resources/NetBeans/etc/netbeans.conf",
+		"/Users/charliebowler/Downloads/cm4108 Lab03 solution/WebContent/WEB-INF/web.xml",
+		"/Applications/tomcat/conf/context.xml",
+		"/Applications/tomcat/conf/web.xml",
+		"/Applications/tomcat/conf/server.xml",
+		"/Users/charliebowler/Desktop/practicefamilytree.pl",
+		"/Users/charliebowler/Desktop/Advanced AI/Coursework/Coursework Part 2/familytreeai.pl",
+		"/Users/charliebowler/Desktop/schedule.pl",
+		"/Users/charliebowler/Desktop/basicfamilytree.pl",
+		"/Users/charliebowler/Desktop/familytreeai.pl",
+		"/Users/charliebowler/Desktop/Advanced AI/Coursework/Coursework Part 2/familytree",
+		"/Users/charliebowler/Desktop/Advanced AI/Coursework/Coursework Part 2/practicetree",
+		"/Users/charliebowler/Downloads/Location.cs",
+		"/Users/charliebowler/Downloads/SourcePosition.cs",
+		"/Users/charliebowler/Downloads/CBowler1402402/CM3033Coursework1402402/src/cm3033coursework1402402/ClientRequest_Thread.java",
+		"/Users/charliebowler/Downloads/CBowler1402402/CM3033Coursework1402402/src/cm3033coursework1402402/GUIClass.java",
+		"/Users/charliebowler/Downloads/CBowler1402402/CM3033Coursework1402402/src/cm3033coursework1402402/CM3033Coursework1402402.java",
+		"/Applications/apache-tomcat-8.5.23/conf/tomcat-users.xml",
+		"/Applications/apache-tomcat-8.5.23/conf/context.xml",
+		"/Applications/apache-tomcat-8.5.23/conf/web.xml"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
